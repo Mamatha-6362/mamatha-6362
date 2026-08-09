@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mamatha-6362/mamatha-6362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## HI IAM MAMATHA
 # 💫 About Me:
 🔭 I’m currently working on: Building dynamic, scalable <br>personal projects to master the full-stack development lifecycle.<br>🌱 I’m currently learning: Advanced JavaScript frameworks and optimizing backend databases for peak performance.<br>👯 I’m looking to collaborate on: Open-source Python scripts or innovative web development projects.<br>🤔 I’m looking for help with: Mastering complex SQL queries and leveling up my UI/UX design instincts.<br>💬 Ask me about: Web development basics, Python scripting, and relational database design.<br>⚡ Fun fact: I treat database normalization and complex queries just like my favorite logic puzzles—deconstructing, optimizing, and finding the perfect elegant solution!<br>📫 How to reach me: [mamathaediga23@gmail.com or https://www.linkedin.com/in/mamatha-eediga-99b627299/]
 
@@ -23,3 +17,10 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=mamatha-6362&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
+**Mamatha-6362/mamatha-6362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
